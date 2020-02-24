@@ -1,3 +1,4 @@
+### This code is associated with the paper from Saito et al., "Translational initiation in E. coli occurs at the correct sites genome-wide in the absence of mRNA-rRNA base-pairing". eLife, 2020. http://dx.doi.org/10.7554/eLife.55002
 # 2019_SDASD
 
 The codes to process and analyze FASTQ files obtained from the MS2 pulldown ribosome profiling, standard ribosome profiling, and RNAseq in “A Genome-Wide Analysis of the Role of Shine-Dalgarno Sequences in Promoting Translation in E. coli”. First run codes for data processing, then run codes for data analyses.
